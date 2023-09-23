@@ -1,0 +1,38 @@
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
+body {
+  font-family: system-ui;
+}
+h1 {
+  color: white;
+  background-color: rgba(84, 163, 84, 0.583);
+  font-family: cursive;
+}
+h2 {
+  color: white;
+  background-color: rgba(84, 163, 84, 0.583);
+  font-family: cursive;
+}
+h3 {
+  color: white;
+  background-color: rgba(84, 163, 84, 0.583);
+  font-family: cursive;
+}
+p {
+  font-family: cursive;
+  background-color: rgba(241, 128, 53, 0.573);
+}
+body {
+  background-color: peachpuff;
+}
+button {
+  justify-content: center;
+  border-radius: 30px;
+  background-color: pink;
+  border-color: white;
+  box-shadow: none;
+}
